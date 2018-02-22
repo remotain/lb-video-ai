@@ -1,0 +1,9 @@
+[submodule "face_recognition"]
+	path = face_recognition
+	url = https://github.com/ageitgey/face_recognition.git
+[submodule "deep_sort"]
+	path = deep_sort
+	url = https://github.com/nwojke/deep_sort
+[submodule "models"]
+	path = models
+	url = https://github.com/tensorflow/models.git
